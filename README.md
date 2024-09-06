@@ -6,3 +6,4 @@
 - `data.csv`
 - `Question 1.ipynb`
 - `Question 2.ipynb`
+- `README.md`
